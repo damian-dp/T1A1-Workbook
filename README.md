@@ -7,7 +7,18 @@
 
 [//]: # (Answer:)
 
-This is an answer We send you pre-portioned ingredients for cooking your recipes, and there are a few extra essentials to keep handy at home, like oil, salt and pepper. You can check what you'll need each week through the orders section of your account. We send you pre-portioned ingredients for cooking your recipes, and there are a few extra essentials to keep handy at home, like oil, salt and pepper. You can check what you'll need each week through the orders section of your account. We send you pre-portioned ingredients for cooking your recipes, and there are a few extra essentials to keep handy at home, like oil, salt and pepper. You can check what you'll need each week through the orders section of your account.
+Web development markup languages, primarily HTML (Hypertext Markup Language), serve as the foundation for creating the structure and content of web pages. HTML utilizes tags to define various elements on a webpage, such as headings (ranging from `<h1>` to `<h6>`), paragraphs (`<p>`), lists (`<ul>`, `<ol>`, `<li>`), links (`<a>`), images (`<img>`), and more. These tags encapsulate content and provide a hierarchical structure to the webpage.
+
+In addition to tags, HTML elements can have attributes, which offer additional information or modify their behavior. For instance, the `href` attribute is used for hyperlinks, while the `src` attribute specifies image sources. HTML documents follow a specific structure, including an opening `<html>` tag, a `<head>` section for metadata and resources, and a `<body>` section for the visible content that is to be rendered by the browser.
+
+HTML5 introduced semantic elements such as `<header>`, `<nav>`, `<section>`, `<article>`, `<footer>`, which provide meaningful structure to the content, improving accessibility for users and enhancing search engine optimization (SEO). Moreover, HTML forms (`<form>`) facilitate user input and interaction, incorporating elements like text fields (`<input type="text">`), checkboxes (`<input type="checkbox">`), radio buttons (`<input type="radio">`), and more.
+
+Accessibility and SEO are crucial considerations in web development. Semantic HTML elements contribute to accessibility by structuring content meaningfully, while adding descriptive `alt` attributes to images enhances accessibility for users with screen readers. Meta tags, including `<title>`, `<meta description>`, and `<meta keywords>`, impact SEO by providing search engines with relevant information about the webpage's content.
+
+Although CSS (Cascading Style Sheets) is not a markup language, it complements HTML by styling the presentation and layout of web pages. CSS selectors target HTML elements, while properties define their visual appearance, such as color, size, typography, and layout. Responsive design techniques, enabled by CSS, adapt webpage layout and styling based on viewport size and device characteristics. Additionally, JavaScript enhances web interactivity and dynamic behavior through DOM manipulation, event handling, and AJAX for asynchronous data exchange between the browser and server.
+
+
+
 
 ---
 
@@ -24,7 +35,11 @@ This is an answer We send you pre-portioned ingredients for cooking your recipes
 
 [//]: # (Answer:)
 
-This is an answer We send you pre-portioned ingredients for cooking your recipes, and there are a few extra essentials to keep handy at home, like oil, salt and pepper. You can check what you'll need each week through the orders section of your account. We send you pre-portioned ingredients for cooking your recipes, and there are a few extra essentials to keep handy at home, like oil, salt and pepper. You can check what you'll need each week through the orders section of your account. We send you pre-portioned ingredients for cooking your recipes, and there are a few extra essentials to keep handy at home, like oil, salt and pepper. You can check what you'll need each week through the orders section of your account.
+IP (Internet Protocol) addresses play a crucial role in internet communication, allowing devices to locate and exchange data with each other. IPv4 and IPv6 addresses are used in tandem on the modern internet, with IPv6 adoption increasing to support the proliferation of connected devices and emerging technologies.
+
+IP addresses were developed alongside the early internet. IPv4 addresses, consisting of 32 bits, were the original standard for addressing devices on the internet and facilitated the widespread growth of networked computing. However, the exponential increase in connected devices led to IPv4 address exhaustion, prompting the development of IPv6 in the late 1990s. IPv6 addresses, with 128 bits, offer a vastly expanded address space to accommodate the growing number of devices. Today, both IPv4 and IPv6 are used in tandem, with IPv6 supporting innovative technologies like IoT and 5G networks.
+
+In a typical day-to-day scenario, when a person uses their smartphone to browse the internet, the Domain Name System (DNS) resolves the domain name of a website, such as 'www.example.com,' into its corresponding IP address. Subsequently, the web browser establishes a connection to the web server hosting the website, utilising either IPv4 or IPv6 connectivity depending on availability. Data packets containing the user's device's source IP address and the web server's destination IP address are then transmitted over the internet. Upon receiving the request, the web server processes it and sends back a response, which includes resources like HTML, CSS, and JavaScript, divided into data packets. The web browser reconstructs the web page using these packets, ultimately displaying it to the user. Throughout this process, IPv4 and IPv6 addresses play a crucial role in identifying the source and destination of data packets, enabling seamless communication and interaction on the internet.
 
 ---
 
