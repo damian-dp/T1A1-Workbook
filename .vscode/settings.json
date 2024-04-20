@@ -1,3 +1,6 @@
 {
-    "cSpell.language": "en-AU"
+    "cSpell.language": "en-AU",
+    "markdown-pdf.breaks": false,
+    "markdown-pdf.headerTemplate": "<div style=\"font-size: 0px; margin-left: 1cm;\"> <span class='title'></span></div> <div style=\"font-size: 0px; margin-left: auto; margin-right: 1cm; \">%%ISO-DATE%%</div>",
+    "markdown-pdf.margin.top": "1cm"
 }
