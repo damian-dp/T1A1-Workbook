@@ -365,7 +365,7 @@ Full-stack Developer
 
 > Think back to a scenario or situation in your own software development projects or work.
 >
-> Explain how you would do things differently if you had a chance to go through that scenario again, using an appropriate reflective cycle or reflection technique..
+> Explain how you would do things differently if you had a chance to go through that scenario again, using an appropriate reflective cycle or reflection technique.
 
 [//]: # (Answer:)
 
